@@ -3,7 +3,6 @@
 This project detects **Sign Language gestures (A–Z, Space, Del)** using **MediaPipe Hand Landmarks** and a **K-Nearest Neighbors (KNN)** classifier.  
 It supports both **image upload** and **real-time webcam detection** through an interactive **Streamlit GUI**.
 
----
 
 <img src="assets/sign language.png" width="500"/>
 
