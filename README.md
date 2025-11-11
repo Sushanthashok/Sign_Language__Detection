@@ -26,7 +26,5 @@ It supports both **image upload** and **real-time webcam detection** through an 
 | **Accuracy** | 97.4% on Kaggle dataset |
 | **Time Restriction** | Active between 6 PM – 10 PM (can be toggled) |
 
----
 
-## 📂 Folder Structure
 
