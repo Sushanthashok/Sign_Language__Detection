@@ -13,6 +13,8 @@ It supports both **image upload** and **real-time webcam detection** through an 
 
   DATA               :[DATA](https://drive.google.com/file/d/1i2yR41oc-empSnbyR0YM8gHnxMyznkyl/view?usp=drive_link)
 
+  IMPLEMENTATION PROOF: [.MP4](https://drive.google.com/file/d/1azvIuNKvvukOX-q6_sqAwe2b8Mcc0SdY/view?usp=sharing)
+
 
 ---
 
