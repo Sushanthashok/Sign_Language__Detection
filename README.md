@@ -5,6 +5,8 @@ It supports both **image upload** and **real-time webcam detection** through an 
 
 ---
 
+<img src="assets/sign language.png" width="500"/>
+
 
  ## Large Files 
 
